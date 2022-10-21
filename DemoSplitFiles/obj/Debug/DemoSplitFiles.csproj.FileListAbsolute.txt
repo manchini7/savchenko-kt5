@@ -1,0 +1,8 @@
+C:\Users\Савчук Владимир\source\repos\DemoSplitFiles\DemoSplitFiles\bin\Debug\DemoSplitFiles.exe.config
+C:\Users\Савчук Владимир\source\repos\DemoSplitFiles\DemoSplitFiles\bin\Debug\DemoSplitFiles.exe
+C:\Users\Савчук Владимир\source\repos\DemoSplitFiles\DemoSplitFiles\bin\Debug\DemoSplitFiles.pdb
+C:\Users\Савчук Владимир\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Debug\DemoSplitFiles.csproj.AssemblyReference.cache
+C:\Users\Савчук Владимир\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Debug\DemoSplitFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Савчук Владимир\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Debug\DemoSplitFiles.csproj.CoreCompileInputs.cache
+C:\Users\Савчук Владимир\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Debug\DemoSplitFiles.exe
+C:\Users\Савчук Владимир\source\repos\DemoSplitFiles\DemoSplitFiles\obj\Debug\DemoSplitFiles.pdb
